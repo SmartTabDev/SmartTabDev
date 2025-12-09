@@ -1,4 +1,4 @@
-# Senior fullstack developer
+# Senior Fullstack Developer
 
 ## **1. Frontend Development**
   - HTML5, CSS3, JavaScript (ES6+)  
@@ -46,3 +46,6 @@
 ## **8. My Articles**
   - [Integrating AI into Fullstack Applications](https://dev.to/smarttabdev/integrating-ai-into-fullstack-applications-22kh)  
   - [Optimizing Fullstack Applications in 2025](https://dev.to/smarttabdev/optimizing-fullstack-applications-in-2025-3b68)
+  - [Handling AI-Driven Features in Fullstack Applications](https://dev.to/smarttabdev/handling-ai-driven-features-in-fullstack-applications-2kpi)
+  - [The Hidden Drawbacks of Vibe Coding for Professional Developers](https://dev.to/smarttabdev/the-hidden-drawbacks-of-vibe-coding-for-professional-developers-22f2)
+  - [Migrating from Python 2 to Python 3](https://dev.to/smarttabdev/migrating-from-python-2-to-python-3-2p1a)
