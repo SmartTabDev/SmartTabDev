@@ -24,30 +24,17 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## **1. Frontend Development**
   - HTML5, CSS3, JavaScript (ES6+), TypeScript, Redux, MobX, Vuex, SSR & SSG
   - Frameworks: React.js, Vue.js, Angular, React Native, Svelte
-
-## **2. Backend Development**
   - Node.js, Express.js, NestJS, Python (Django, FastAPI), Go, Java (Spring Boot)
   - Microservices architecture, RESTful API & GraphQL
-
-## **3. Database & Storage**
   - MySQL, PostgreSQL, MongoDB, Redis, DynamoDB  
   - Indexing & query optimization, Transactions & ACID compliance, Caching strategies
-
-## **4. DevOps & Cloud**
   - Git, GitHub, GitLab, GitHub CI/CD, Jenkins, Docker, Kubernetes, AWS, GCP, Azure
-
-## **5. Testing & Quality Assurance**
   - Jest, Mocha, Chai, Cypress, Playwright  
   - ESLint, Prettier, SonarQube
-
-## **6. AI & Modern Integrations**
   - OpenAI, HuggingFace, Google AI, TensorFlow.js, PyTorch, scikit-learn  
   - AI Agents, Chatbots, recommendations, predictive analytics
-    
-## **7. Soft Skills**
   - Mentorship & team leadership, Agile methodology (Scrum, Kanban), Code review & documentation, Problem-solving & system thinking
 
 ## **8. My Articles**
