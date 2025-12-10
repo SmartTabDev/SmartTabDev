@@ -37,7 +37,7 @@
   - AI Agents, Chatbots, recommendations, predictive analytics
   - Mentorship & team leadership, Agile methodology (Scrum, Kanban), Code review & documentation, Problem-solving & system thinking
 
-## **8. My Articles**
+## **My Articles**
   - [Integrating AI into Fullstack Applications](https://dev.to/smarttabdev/integrating-ai-into-fullstack-applications-22kh)  
   - [Optimizing Fullstack Applications in 2025](https://dev.to/smarttabdev/optimizing-fullstack-applications-in-2025-3b68)
   - [Handling AI-Driven Features in Fullstack Applications](https://dev.to/smarttabdev/handling-ai-driven-features-in-fullstack-applications-2kpi)
